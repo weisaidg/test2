@@ -1,0 +1,7 @@
+兆天项目
+
+任务：1.根据组织过滤缸号  2.根据组织导出不同模板
+
+所用人天：4
+
+https://github.com/dengni1/kingdee.git
