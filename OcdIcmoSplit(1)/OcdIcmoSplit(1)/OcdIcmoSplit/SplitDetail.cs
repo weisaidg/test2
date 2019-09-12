@@ -353,6 +353,9 @@ namespace OcdIcmoSplit
                 int i;
                 for (i = 0; i < dt.Rows.Count; i++)
                 {
+                    if (dt.Rows[i].RowState == DataRowState.Deleted)   //跳过删除状态的行
+
+                        continue;
                     dt.Rows[i]["FIndetidy"] = myIndenNum;
                 }
                 

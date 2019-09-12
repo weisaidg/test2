@@ -162,3 +162,15 @@ E:\KT\小仓\xiaofei\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.SplitDe
 E:\KT\小仓\xiaofei\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.SplitIcmo.resources
 E:\KT\小仓\xiaofei\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.Properties.Resources.resources
 E:\KT\小仓\xiaofei\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.csproj.GenerateResource.Cache
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\bin\Debug\OcdIcmoSplit.exe.config
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.exe
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.pdb
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\bin\Debug\OcdIcmoSplit.exe
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\bin\Debug\OcdIcmoSplit.pdb
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\bin\Debug\SQLHelper.dll
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.csprojResolveAssemblyReference.cache
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.frmBHD.resources
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.SplitDetail.resources
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.SplitIcmo.resources
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.Properties.Resources.resources
+E:\KT\小仓\OldGit\test2\OcdIcmoSplit(1)\OcdIcmoSplit(1)\OcdIcmoSplit\obj\Debug\OcdIcmoSplit.csproj.GenerateResource.Cache
